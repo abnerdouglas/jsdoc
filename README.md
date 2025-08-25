@@ -1,0 +1,1 @@
+## Documentação via JSDoc com plugin para separação por arquivos .md
